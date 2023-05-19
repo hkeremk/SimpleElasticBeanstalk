@@ -4,6 +4,7 @@
 ![Chart](assets/Chart.png)
 
 <hr>
+<br>
 
 ## Task Details
 
