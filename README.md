@@ -1,7 +1,7 @@
 # Elastic Beanstalk Application using Terraform
 
 
-Task Details
+##Task Details
 
 1)Sign into AWS Management Console
 
