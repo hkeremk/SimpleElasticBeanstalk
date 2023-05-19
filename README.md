@@ -1,6 +1,10 @@
 # Elastic Beanstalk Application using Terraform
 
 
+![Chart](assets/Chart.png)
+
+<hr>
+
 ## Task Details
 
 1)Sign into AWS Management Console
