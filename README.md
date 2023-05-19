@@ -3,6 +3,10 @@
 
 ![Chart](assets/Chart.png)
 
+![Chart](assets/env.png)
+
+![Chart](assets/browser.png)
+
 <hr>
 <br>
 
